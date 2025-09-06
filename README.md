@@ -24,16 +24,25 @@ This project is an IoT-enabled healthcare monitoring device designed to measure 
 ## Components Used
 ---
 
+## Software Requirements
+-Arduino IDE (with ESP32 board support)
+
+-Libraries:
+- WiFi.h
+- PulseSensorPlayground.h
+- OneWire.h
+- LiquidCrystal_I2C.h
+  
+## How It Works
+- Sensors collect pulse rate and temperature data.
+- The ESP32 processes the readings and displays them on the LCD screen.
+- Data is transmitted over Wi-Fi to a cloud service (ThingSpeak) or mobile app.
+- Users can track vitals in real time and review historical trends.
+
 ## Schematic Design. 
 I created  the schematic design of this project using draw.io. I started by mapping out all the components, including the ESP32 microcontroller, pulse sensor, temperature sensor, switch, LCD, and a 9v battery, then arranged them to make connections. This schematic helped plan the physical wiring, guided the coding process, and ensured that the system could reliably collect and transmit data.
 
 <img width="1117" height="620" alt="Screenshot 2025-09-06 192206" src="https://github.com/user-attachments/assets/9bfbd855-af8f-4252-8542-5281151fc399" />
 
-## Software Requirements
--Arduino IDE (with ESP32 board support)
--Libraries:
-- WiFi.h
-- PulseSensorPlayground.h
-- OneWire.h and DallasTemperature.h (for DS18B20)
-- LiquidCrystal_I2C.h
+
 
