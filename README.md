@@ -18,7 +18,7 @@ This project is an IoT-enabled healthcare monitoring device designed to measure 
 - Measures heart rate (BPM) in real time
 - Tracks body temperature with digital sensors
 -  Shows live readings directly on the device
-- Enables remote access to health data through a obile app and the device itself
+- Enables remote access to health data through a mobile app and the device itself
 - Designed for everyday use in healthcare or home settings
 ---
 ## Components Used
