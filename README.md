@@ -6,5 +6,15 @@ This project is an IoT-enabled healthcare monitoring device designed to measure 
 
 ## Repository Contents
 
+---
+## Features
+
+-📡 Sends health data wirelessly via Wi-Fi
+-❤️ Measures heart rate (BPM) in real time
+-🌡 Tracks body temperature with digital sensors
+-🖥 Shows live readings directly on the device
+-☁️ Enables remote access to health data through a obile app and the device itself
+-🔋 Designed for everyday use in healthcare or home settings
+---
 
 ## Components Used
