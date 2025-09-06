@@ -54,7 +54,13 @@ This project is an IoT-enabled healthcare monitoring device designed to measure 
 I created  the schematic design of this project using draw.io. I started by mapping out all the components, including the ESP32 microcontroller, pulse sensor, temperature sensor, switch, LCD, and a 9v battery, then arranged them to make connections. This schematic helped plan the physical wiring, guided the coding process, and ensured that the system could reliably collect and transmit data.
 
 <img width="1117" height="620" alt="Screenshot 2025-09-06 192206" src="https://github.com/user-attachments/assets/9bfbd855-af8f-4252-8542-5281151fc399" />
+---
 
+## App Development
+I sed the MIT App inventor to create my app. The pulse rate and body temperature readings from the ESP32 are displayed on the LCD screen of the device and in the mobile app for real-time monitoring. The same data is also sent to ThingSpeak, where it is visualized in real-time graphs, allowing users to track trends over time and monitor their health data effectively both locally and via the cloud.
+
+<img width="1266" height="459" alt="Screenshot 2025-09-05 090041" src="https://github.com/user-attachments/assets/4c4f0cfb-0b09-4d8b-83e6-bbb5d21950e4" />
+---
 ## Process of working on the Project
 Soldering:
 ![IMG-20250901-WA0003](https://github.com/user-attachments/assets/201fd625-8291-4feb-a062-81e06e1ba877) 
