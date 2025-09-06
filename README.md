@@ -35,7 +35,7 @@ This project is an IoT-enabled healthcare monitoring device designed to measure 
 
 ---
 
-## Software Requirements
+## Software Development
 -Arduino IDE (with ESP32 board support)
 
 -Libraries:
