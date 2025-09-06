@@ -55,9 +55,15 @@ I created  the schematic design of this project using draw.io. I started by mapp
 
 <img width="1117" height="620" alt="Screenshot 2025-09-06 192206" src="https://github.com/user-attachments/assets/9bfbd855-af8f-4252-8542-5281151fc399" />
 
+## Process of working on the Project
+Soldering:
+![IMG-20250901-WA0003](https://github.com/user-attachments/assets/201fd625-8291-4feb-a062-81e06e1ba877) 
+Component Testing:
+![IMG-20250905-WA0006](https://github.com/user-attachments/assets/38d5bf0b-ecc3-4149-ab6e-30b127555615) ![IMG-20250905-WA0009](https://github.com/user-attachments/assets/ad44780d-0bfd-4865-8fd2-258017accac9)
+
 
 ## Challenges I faced when building this project
-During this project, I faced several challenges. The LCD screen was not working properly, it would turn on and off (and not work for a long time). Some components were overheating and some would not work when I connected them to my breadboard. The serial monitor failed to recognize certain components sometimes, to solve this I used an I2C scanner to correctly identify and connect the devices, which helped stabilize the system.
+During this project, I faced several challenges. The LCD screen was not working properly, it would turn on and off (and not work for a long time). Some components were overheating and some would not work when I connected them to my breadboard. The serial monitor failed to recognize certain components sometimes, to solve this I used an I2C scanner to correctly identify and connect the devices, which helped stabilize the system. The readings of my components were displaying slow.
 
 ## Future Improvements
 For future improvements, I will add SpO₂ (oxygen saturation) and blood pressure monitoring to provide more comprehensive health tracking. I will also improve my mobile app to send push alerts for abnormal readings and implement AI-based data analysis to offer predictive health insights. I will expand cloud support beyond ThingSpeak to platforms like Firebase or AWS IoT, enabling more data storage, accessibility, and advanced analytics.
