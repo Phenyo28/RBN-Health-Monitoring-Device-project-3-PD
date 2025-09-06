@@ -2,7 +2,7 @@
 ---
 This project is an IoT-enabled healthcare monitoring device designed to measure and record vital signs, specifically pulse rate and body temperature, in real time. Using sensors connected to an ESP32 microcontroller, the system collects health data and transmits it over Wi-Fi to a mobile application, where it is displayed for easy monitoring. The device provides a portable and affordable solution for continuous health tracking, making it useful for patients, caregivers, and healthcare providers. By enabling timely detection of irregularities and supporting remote access, the project contributes to improved preventive healthcare and has potential for future expansion with additional sensors and advanced features.
 
-## Who is project is desiigned for?
+## Who is project is designed for?
 - Patients who need continuous monitoring of vital signs.
 - Caregivers and family members responsible for health supervision.
 - Healthcare providers who want remote access to patient data for timely interventions.
@@ -34,10 +34,10 @@ This project is an IoT-enabled healthcare monitoring device designed to measure 
 - LiquidCrystal_I2C.h
   
 ## How It Works
-- Sensors collect pulse rate and temperature data.
-- The ESP32 processes the readings and displays them on the LCD screen.
-- Data is transmitted over Wi-Fi to a cloud service (ThingSpeak) or mobile app.
-- Users can track vitals in real time and review historical trends.
+1. Sensors collect pulse rate and temperature data.
+2. The ESP32 processes the readings and displays them on the LCD screen.
+3. Data is transmitted over Wi-Fi to a cloud service (ThingSpeak) or mobile app.
+4. Users can track vitals in real time and review historical trends.
 
 ## Schematic Design. 
 I created  the schematic design of this project using draw.io. I started by mapping out all the components, including the ESP32 microcontroller, pulse sensor, temperature sensor, switch, LCD, and a 9v battery, then arranged them to make connections. This schematic helped plan the physical wiring, guided the coding process, and ensured that the system could reliably collect and transmit data.
