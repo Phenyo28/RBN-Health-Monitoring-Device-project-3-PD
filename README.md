@@ -32,8 +32,8 @@ I created  the schematic design of this project using draw.io. I started by mapp
 ## Software Requirements
 -Arduino IDE (with ESP32 board support)
 -Libraries:
--- WiFi.h
--- PulseSensorPlayground.h
--- OneWire.h and DallasTemperature.h (for DS18B20)
--- LiquidCrystal_I2C.h
+- WiFi.h
+- PulseSensorPlayground.h
+- OneWire.h and DallasTemperature.h (for DS18B20)
+- LiquidCrystal_I2C.h
 
