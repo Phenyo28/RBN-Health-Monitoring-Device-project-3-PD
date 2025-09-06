@@ -57,3 +57,5 @@ I created  the schematic design of this project using draw.io. I started by mapp
 
 
 
+## Future Improvements
+For future improvements, I will add SpO₂ (oxygen saturation) and blood pressure monitoring to provide more comprehensive health tracking. I will also improve my mobile app to send push alerts for abnormal readings and implement AI-based data analysis to offer predictive health insights. I will expand cloud support beyond ThingSpeak to platforms like Firebase or AWS IoT, enabling more data storage, accessibility, and advanced analytics.
