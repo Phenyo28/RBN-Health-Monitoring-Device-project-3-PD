@@ -58,7 +58,9 @@ I created  the schematic design of this project using draw.io. I started by mapp
 ## Process of working on the Project
 Soldering:
 ![IMG-20250901-WA0003](https://github.com/user-attachments/assets/201fd625-8291-4feb-a062-81e06e1ba877) 
+---
 Component Testing:
+---
 ![IMG-20250905-WA0006](https://github.com/user-attachments/assets/38d5bf0b-ecc3-4149-ab6e-30b127555615) ![IMG-20250905-WA0009](https://github.com/user-attachments/assets/ad44780d-0bfd-4865-8fd2-258017accac9)
 
 
