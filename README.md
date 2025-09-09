@@ -33,14 +33,14 @@ This project is an IoT-enabled healthcare monitoring device designed to measure 
 ## Components Used
 | Component Name               | Purpose in Project                                            | Quantity |
 | ---------------------------- | ------------------------------------------------------------- | -------- |
-| ESP32                        | Main microcontroller; collects sensor data & controls outputs | 1        |
-| 9 V Battery                  | Powers the system                                             | 1        |
-| Pulse Sensor                 | Measures the user’s heart rate                                | 1        |
-| IR Thermometer Sensor        | Measures body temperature                                     | 1        |
-| Breadboard                   | Connects components without soldering                         | 1        |
-| USB A-Male to Micro USB Male | Powers or programs the ESP32 via USB                          | 1        |
-| LCD Screen                   | Displays real-time sensor readings                            | 1        |
-| On/Off Switch                | Turns the device on or off                                    | 1        |
+| `ESP32`                        | Main microcontroller; collects sensor data & controls outputs | 1        |
+| `9 V Battery`                  | Powers the system                                             | 1        |
+| `Pulse Sensor`                 | Measures the user’s heart rate                                | 1        |
+| `IR Thermometer Sensor`        | Measures body temperature                                     | 1        |
+| `Breadboard`                   | Connects components without soldering                         | 1        |
+| `USB A-Male to Micro USB Male` | Powers or programs the ESP32 via USB                          | 1        |
+| `LCD Screen`                   | Displays real-time sensor readings                            | 1        |
+| `On/Off Switch`                | Turns the device on or off                                    | 1        |
 
 ---
 
