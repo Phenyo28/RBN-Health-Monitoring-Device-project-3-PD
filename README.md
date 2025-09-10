@@ -105,6 +105,10 @@ I created  the schematic design of this project using draw.io. I started by mapp
 ## App Development
 I sed the MIT App inventor to create my app. The pulse rate and body temperature readings from the ESP32 are displayed on the LCD screen of the device and in the mobile app for real-time monitoring. The same data is also sent to ThingSpeak, where it is visualized in real-time graphs, allowing users to track trends over time and monitor their health data effectively both locally and via the cloud.
 
+<img width="655" height="816" alt="Screenshot 2025-09-11 001952" src="https://github.com/user-attachments/assets/5069208c-3399-4872-8972-acca0efbef1c" /> <img width="655" height="816" alt="Screenshot 2025-09-11 001952" src="https://github.com/user-attachments/assets/544e0dd1-4572-4b86-ad80-ec90e4fe2d43" />
+
+---
+
 ## How the ThingSpeak Readings Work
 The ESP32 collects pulse and temperature values from the sensors and connects to Wi-Fi. These readings are then sent to ThingSpeak, an IoT analytics platform, using its API. Each data value is uploaded to a specific channel field (for example, Field 1 = Pulse Rate, Field 2 = Signal Strength, Field 3 = Object Temperature, Field 4 = Ambient Temperature). ThingSpeak stores the data in the cloud and displays it in real-time through interactive graphs and charts. This allows continuous monitoring of trends over time, remote access to health data, and easy integration with data analysis or alert systems.
 <img width="1298" height="806" alt="Screenshot 2025-09-09 091009" src="https://github.com/user-attachments/assets/3277fdbe-5d2a-492c-a488-6d55d139bcd5" />
