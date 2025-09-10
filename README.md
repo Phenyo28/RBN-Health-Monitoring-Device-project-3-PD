@@ -59,10 +59,8 @@ This project is an IoT-enabled healthcare monitoring device designed to measure 
 3. Data is transmitted over Wi-Fi to a cloud service (ThingSpeak) or mobile app.
 4. Users can track vitals in real time and review historical trends.
 
-## CodeWork
+## The Code
 <img width="1640" height="970" alt="image" src="https://github.com/user-attachments/assets/91e897da-ef18-4ce5-a578-928b8809669c" />
-
----
 
 ## How the Code Works
 
