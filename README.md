@@ -62,6 +62,8 @@ This project is an IoT-enabled healthcare monitoring device designed to measure 
 ## CodeWork
 <img width="1640" height="970" alt="image" src="https://github.com/user-attachments/assets/91e897da-ef18-4ce5-a578-928b8809669c" />
 
+---
+
 ## How the Code Works
 
 1. Initialization (setup)
@@ -93,6 +95,8 @@ This project is an IoT-enabled healthcare monitoring device designed to measure 
 - BPM, temperature, and signal strength
 - Current health state messages (normal, high, low)
 - ThingSpeak connection status & next update timer
+
+---
 
 ## Schematic Design. 
 I created  the schematic design of this project using draw.io. I started by mapping out all the components, including the ESP32 microcontroller, pulse sensor, temperature sensor, switch, LCD, and a 9v battery, then arranged them to make connections. This schematic helped plan the physical wiring, guided the coding process, and ensured that the system could reliably collect and transmit data.
