@@ -62,11 +62,37 @@ This project is an IoT-enabled healthcare monitoring device designed to measure 
 ## CodeWork
 <img width="1640" height="970" alt="image" src="https://github.com/user-attachments/assets/91e897da-ef18-4ce5-a578-928b8809669c" />
 
-## The logic will:
-- Classify pulse as Low (<60 BPM), Normal (60–100 BPM), High (>100 BPM).
-- Classify temperature as Low (<36.0 °C), Normal (36.0–37.5 °C), High (>37.5 °C).
-- Show causes/explanations for each case.
-- Display status in Serial Monitor, LCD, and the Web Dashboard
+## How the Code Works
+
+1. Initialization (setup)
+- Connects to Wi-Fi
+- Initializes Pulse Sensor, Temperature Sensor, and LCD display
+- Starts a web server on the ESP32
+2. Loop Operations (continuous monitoring)
+- Reads pulse sensor raw values and detects heartbeats
+- Calculates BPM (Beats Per Minute)
+- Reads object temperature (body) and ambient temperature
+- Prints results to the Serial Monitor for debugging
+- Updates the LCD with current BPM & body temperature
+- Sends data every 15 seconds to ThingSpeak (API call via HTTP)
+- Hosts a web dashboard showing real-time BPM, temperature, signal strength, and health state
+3. Health Logic & Thresholds
+- Pulse thresholds:
+- `< 60 BPM` → Low (bradycardia risk)
+- `60–100 BPM` → Normal
+- `> 100 BPM` → High (tachycardia risk)
+- Temperature thresholds:
+- `< 36°C` → Low (hypothermia risk)
+- `36–37.5°C` → Normal
+- `> 37.5°C` → High (fever/infection risk)
+- The system explains the possible causes of abnormal readings (e.g., stress, infection, dehydration).
+4. Web Dashboard
+- Auto-refreshes every 2 seconds
+- Displays:
+- Heartbeat animation ♥ when pulse is detected
+- BPM, temperature, and signal strength
+- Current health state messages (normal, high, low)
+- ThingSpeak connection status & next update timer
 
 ## Schematic Design. 
 I created  the schematic design of this project using draw.io. I started by mapping out all the components, including the ESP32 microcontroller, pulse sensor, temperature sensor, switch, LCD, and a 9v battery, then arranged them to make connections. This schematic helped plan the physical wiring, guided the coding process, and ensured that the system could reliably collect and transmit data.
