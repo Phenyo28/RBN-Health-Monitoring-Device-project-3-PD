@@ -62,6 +62,11 @@ This project is an IoT-enabled healthcare monitoring device designed to measure 
 ## CodeWork
 <img width="1640" height="970" alt="image" src="https://github.com/user-attachments/assets/91e897da-ef18-4ce5-a578-928b8809669c" />
 
+## The logic will:
+- Classify pulse as Low (<60 BPM), Normal (60–100 BPM), High (>100 BPM).
+- Classify temperature as Low (<36.0 °C), Normal (36.0–37.5 °C), High (>37.5 °C).
+- Show causes/explanations for each case.
+- Display status in Serial Monitor, LCD, and the Web Dashboard
 
 ## Schematic Design. 
 I created  the schematic design of this project using draw.io. I started by mapping out all the components, including the ESP32 microcontroller, pulse sensor, temperature sensor, switch, LCD, and a 9v battery, then arranged them to make connections. This schematic helped plan the physical wiring, guided the coding process, and ensured that the system could reliably collect and transmit data.
