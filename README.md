@@ -52,12 +52,6 @@ This project is an IoT-enabled healthcare monitoring device designed to measure 
 - PulseSensorPlayground.h
 - OneWire.h
 - LiquidCrystal_I2C.h
-  
-## How It Works
-1. Sensors collect pulse rate and temperature data.
-2. The ESP32 processes the readings and displays them on the LCD screen.
-3. Data is transmitted over Wi-Fi to a cloud service (ThingSpeak) or mobile app.
-4. Users can track vitals in real time and review historical trends.
 
 ## The Code
 <img width="1640" height="970" alt="image" src="https://github.com/user-attachments/assets/91e897da-ef18-4ce5-a578-928b8809669c" />
