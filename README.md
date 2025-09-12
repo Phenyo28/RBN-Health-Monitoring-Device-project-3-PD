@@ -97,7 +97,12 @@ I created  the schematic design of this project using draw.io. I started by mapp
 
 
 ## App Development
-I sed the MIT App inventor to create my app. The pulse rate and body temperature readings from the ESP32 are displayed on the LCD screen of the device and in the mobile app for real-time monitoring. The same data is also sent to ThingSpeak, where it is visualized in real-time graphs, allowing users to track trends over time and monitor their health data effectively both locally and via the cloud.
+I used the MIT App inventor to create my app. The pulse rate and body temperature readings from the ESP32 are displayed on the LCD screen of the device and in the mobile app for real-time monitoring. The same data is also sent to ThingSpeak, where it is visualized in real-time graphs, allowing users to track trends over time and monitor their health data effectively both locally and via the cloud.
+
+[Pulse Sensor] →  
+                 → [ESP32] → [Wi-Fi] → [ThingSpeak Cloud] → [MIT App Inventor App] → [User Smartphone]
+[Temp Sensor]  →
+
 
 <img width="655" height="816" alt="Screenshot 2025-09-11 001952" src="https://github.com/user-attachments/assets/5069208c-3399-4872-8972-acca0efbef1c" /> <img width="655" height="816" alt="Screenshot 2025-09-11 001952" src="https://github.com/user-attachments/assets/544e0dd1-4572-4b86-ad80-ec90e4fe2d43" />
 
