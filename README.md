@@ -80,6 +80,8 @@ This project is an IoT-enabled healthcare monitoring device designed to measure 
 - `36–37.5°C` → Normal
 - `> 37.5°C` → High (fever/infection risk)
 - The system explains the possible causes of abnormal readings (e.g., stress, infection, dehydration).
+<img width="1920" height="498" alt="Screenshot 2025-09-17 003225" src="https://github.com/user-attachments/assets/50b82596-d918-4637-8063-f8659ab65dc8" />
+
 4. Web Dashboard
 - Auto-refreshes every 2 seconds
 - Displays:
