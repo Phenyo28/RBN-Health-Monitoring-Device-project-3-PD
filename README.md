@@ -52,6 +52,7 @@ This project is an IoT-enabled healthcare monitoring device designed to measure 
 - PulseSensorPlayground.h
 - OneWire.h
 - LiquidCrystal_I2C.h
+<img width="1920" height="179" alt="Screenshot 2025-09-17 004305" src="https://github.com/user-attachments/assets/c213e6c2-e469-4ed0-b403-7a2f0503e60d" />
 
 ## The Code
 <img width="1640" height="970" alt="image" src="https://github.com/user-attachments/assets/91e897da-ef18-4ce5-a578-928b8809669c" />
@@ -62,6 +63,8 @@ This project is an IoT-enabled healthcare monitoring device designed to measure 
 - Connects to Wi-Fi
 - Initializes Pulse Sensor, Temperature Sensor, and LCD display
 - Starts a web server on the ESP32
+<img width="1914" height="936" alt="Screenshot 2025-09-17 004145" src="https://github.com/user-attachments/assets/e0c5c711-175a-4efa-8fc4-dcda3a6a4e21" />
+
 2. Loop Operations (continuous monitoring)
 - Reads pulse sensor raw values and detects heartbeats
 - Calculates BPM (Beats Per Minute)
@@ -70,6 +73,8 @@ This project is an IoT-enabled healthcare monitoring device designed to measure 
 - Updates the LCD with current BPM & body temperature
 - Sends data every 15 seconds to ThingSpeak (API call via HTTP)
 - Hosts a web dashboard showing real-time BPM, temperature, signal strength, and health state
+<img width="1887" height="651" alt="Screenshot 2025-09-17 004033" src="https://github.com/user-attachments/assets/108b4ea9-9269-47de-84f0-e2b7df35d1ac" />
+
 3. Health Logic & Thresholds
 - Pulse thresholds:
 - `< 60 BPM` → Low (bradycardia risk)
