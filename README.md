@@ -55,7 +55,6 @@ This project is an IoT-enabled healthcare monitoring device designed to measure 
 <img width="1920" height="179" alt="Screenshot 2025-09-17 004305" src="https://github.com/user-attachments/assets/c213e6c2-e469-4ed0-b403-7a2f0503e60d" />
 
 ## The Code
-<img width="1640" height="970" alt="image" src="https://github.com/user-attachments/assets/91e897da-ef18-4ce5-a578-928b8809669c" />
 
 ## How the Code Works
 
