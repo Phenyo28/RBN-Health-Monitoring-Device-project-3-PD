@@ -87,6 +87,7 @@ This project is an IoT-enabled healthcare monitoring device designed to measure 
 - BPM, temperature, and signal strength
 - Current health state messages (normal, high, low)
 - ThingSpeak connection status & next update timer
+<img width="1917" height="571" alt="Screenshot 2025-09-17 003530" src="https://github.com/user-attachments/assets/b4cdd4f0-cf83-481f-8f26-ed3a11dd12fa" />
 
 ---
 
