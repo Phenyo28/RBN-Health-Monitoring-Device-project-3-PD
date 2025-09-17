@@ -137,7 +137,6 @@ As part of this project, I attended hands-on workshops that helped me gain essen
 ## Laser cutting and photo engraving using ImagR
 <img width="831" height="429" alt="Screenshot 2025-09-17 091921" src="https://github.com/user-attachments/assets/d383d9c1-d6bd-451e-b3b6-4a34d2d0d8aa" />
 
-These workshops gave me the technical foundation to design, fabricate, and assemble the casing of my health monitoring device.
 
 ---
 
