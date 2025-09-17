@@ -133,6 +133,7 @@ As part of this project, I attended hands-on workshops that helped me gain essen
 - Design Tools – Practiced CAD design in Onshape, generated toolpaths using Kiri:Moto, and prepared files for laser cutting.
 ## Testing the laser cutting machine
 <img width="1034" height="483" alt="image" src="https://github.com/user-attachments/assets/3271751c-59ea-4ba5-907c-2de13b75b2dc" />
+<img width="1033" height="297" alt="image" src="https://github.com/user-attachments/assets/de8aa434-fb6d-4d78-a152-317b18902a6d" />
 
 ## Laser cutting and photo engraving using ImagR
 <img width="831" height="429" alt="Screenshot 2025-09-17 091921" src="https://github.com/user-attachments/assets/d383d9c1-d6bd-451e-b3b6-4a34d2d0d8aa" />
