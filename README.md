@@ -129,7 +129,7 @@ I created the casing on OnShape. This casing will provide protection for the ele
 
 As part of this project, I attended hands-on workshops that helped me gain essential fabrication and prototyping skills.
 - Laser Cutting Workshop – Learned about routine checks, machine maintenance, carbon air filters, focusing tools, bed leveling, and engraving techniques.
-- CNC and Additive Manufacturing Workshop – Explored subtractive vs. additive manufacturing, CNC routing operations, tool bits, spindle motors, safety practices, and software workflows.
+- CNC and Additive Manufacturing  – We explored subtractive vs. additive manufacturing, CNC routing operations, tool bits, spindle motors, safety practices, and software workflows.
 - Design Tools – Practiced CAD design in Onshape, generated toolpaths using Kiri:Moto, and prepared files for laser cutting.
 ## Testing the laser cutting machine
 <img width="1034" height="483" alt="image" src="https://github.com/user-attachments/assets/3271751c-59ea-4ba5-907c-2de13b75b2dc" />
@@ -137,6 +137,10 @@ As part of this project, I attended hands-on workshops that helped me gain essen
 ## Laser cutting and photo engraving using ImagR
 <img width="831" height="429" alt="Screenshot 2025-09-17 091921" src="https://github.com/user-attachments/assets/d383d9c1-d6bd-451e-b3b6-4a34d2d0d8aa" />
 
+## CNC 
+I designed the project components using Onshape and then used Kirimoto to generate CNC instructions to cut the wood accurately. This allowed me to translate my digital design into a precise physical object.
+<img width="1034" height="523" alt="image" src="https://github.com/user-attachments/assets/8e636d36-e4f5-4541-846c-c2295c96a52f" />
+<img width="1034" height="521" alt="image" src="https://github.com/user-attachments/assets/c4ca53fe-0650-4085-80a4-1ec763a16e77" />
 
 ---
 
