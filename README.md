@@ -121,6 +121,8 @@ The ESP32 collects pulse and temperature values from the sensors and connects to
 ---
 ## The Casing
 I created the casing on OnShape. This casing will provide protection for the electronics, gave it a cleaner look, and made the device portable.
+<img width="1034" height="523" alt="image" src="https://github.com/user-attachments/assets/31d777d9-655b-4aff-bd46-81977aefa1e5" />
+
 <img width="854" height="590" alt="Screenshot 2025-09-17 084955" src="https://github.com/user-attachments/assets/807e8e22-88e9-4eca-8c2c-e5ed4410b671" />
 
 
