@@ -123,8 +123,9 @@ The ESP32 collects pulse and temperature values from the sensors and connects to
 I created the casing on OnShape. This casing will provide protection for the electronics, gave it a cleaner look, and made the device portable.
 <img width="749" height="527" alt="Screenshot 2025-09-17 002916" src="https://github.com/user-attachments/assets/83fd5407-4fa1-4cc1-9d36-c5ca9f257551" /> <img width="254" height="628" alt="Screenshot 2025-09-17 002952" src="https://github.com/user-attachments/assets/1afe642c-1117-41ec-9458-f567c1fb6936" /> <img width="275" height="634" alt="Screenshot 2025-09-17 002934" src="https://github.com/user-attachments/assets/aa7e3080-07db-417a-8f17-e9a8aac41817" />
 
+## Laser Cutting the Device
 
-
+The device casing was designed in Onshape, exported, and laser cut from wood. Using proper power and speed settings, the parts were cut accurately and assembled to house the ESP32, sensors, and display, resulting in a durable and portable prototype.
 
 
 ---
@@ -137,7 +138,7 @@ I created the casing on OnShape. This casing will provide protection for the ele
 ## Component Testing:
 ---
 ![IMG-20250905-WA0006](https://github.com/user-attachments/assets/38d5bf0b-ecc3-4149-ab6e-30b127555615) ![IMG-20250905-WA0009](https://github.com/user-attachments/assets/ad44780d-0bfd-4865-8fd2-258017accac9)
-
+---
 
 ## Challenges I faced when building this project
 During this project, I faced several challenges. The LCD screen was not working properly, it would turn on and off (and not work for a long time). Some components were overheating and some would not work when I connected them to my breadboard. The serial monitor failed to recognize certain components sometimes, to solve this I used an I2C scanner to correctly identify and connect the devices, which helped stabilize the system. The readings of my components were displaying slow. My ESP32 microcontroller burnt and was not responsive, this delayed the process as I had to source a replacement device before I could continue testing and integrating the components.
