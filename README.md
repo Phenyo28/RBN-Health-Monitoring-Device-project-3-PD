@@ -143,7 +143,8 @@ I designed the project components using Onshape and then used Kirimoto to genera
 <img width="1034" height="523" alt="image" src="https://github.com/user-attachments/assets/8e636d36-e4f5-4541-846c-c2295c96a52f" />
 <img width="1034" height="521" alt="image" src="https://github.com/user-attachments/assets/c4ca53fe-0650-4085-80a4-1ec763a16e77" />
 ## The Outcome
-<img width="791" height="787" alt="image" src="https://github.com/user-attachments/assets/e681a667-8247-4bb1-8027-6acd08e66f63" />
+<img width="745" height="582" alt="image" src="https://github.com/user-attachments/assets/4c0c59cd-8f11-4846-8754-d4b63fb12c43" />
+
 
 ---
 
