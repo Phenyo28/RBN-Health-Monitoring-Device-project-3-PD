@@ -127,16 +127,18 @@ I created the casing on OnShape. This casing will provide protection for the ele
 
 ## Laser Cutting workshop
 
-- As part of this project, I attended hands-on workshops that helped me gain essential fabrication and prototyping skills.
+As part of this project, I attended hands-on workshops that helped me gain essential fabrication and prototyping skills.
 - Laser Cutting Workshop – Learned about routine checks, machine maintenance, carbon air filters, focusing tools, bed leveling, and engraving techniques.
-- CNC & Additive Manufacturing Workshop – Explored subtractive vs. additive manufacturing, CNC routing operations, tool bits, spindle motors, safety practices, and software workflows.
+- CNC and Additive Manufacturing Workshop – Explored subtractive vs. additive manufacturing, CNC routing operations, tool bits, spindle motors, safety practices, and software workflows.
 - Design Tools – Practiced CAD design in Onshape, generated toolpaths using Kiri:Moto, and prepared files for laser cutting.
+## Testing the laser cutting machine
 <img width="1034" height="483" alt="image" src="https://github.com/user-attachments/assets/3271751c-59ea-4ba5-907c-2de13b75b2dc" />
-
+## Laser cutting and photo engraving using ImagR
+<img width="893" height="441" alt="Screenshot 2025-09-17 091451" src="https://github.com/user-attachments/assets/0bc827d4-539e-4d68-9d78-b1de03262492" />
 
 These workshops gave me the technical foundation to design, fabricate, and assemble the casing of my health monitoring device.
+---
 ## Laser Cutting the Device
-
 The device casing was designed in Onshape, exported, and laser cut from wood. Using proper power and speed settings, the parts were cut accurately and assembled to house the ESP32, sensors, and display, resulting in a durable and portable prototype.
 
 
