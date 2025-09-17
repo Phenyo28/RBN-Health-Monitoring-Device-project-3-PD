@@ -12,12 +12,11 @@ This project is an IoT-enabled healthcare monitoring device designed to measure 
 ## Repository Contents
 | File / Folder                 | Description                                       |
 | ----------------------------- | ------------------------------------------------- |
-| `Assembly 1.zip`              | Complete 3D assembly files                        |
-| `Assembly STL.zip`            | STL files for 3D printing the case                |
-| `Components`                  | List of all required electronic components        |
-| `Soil Detector Schematic.pdf` | Circuit wiring diagram in PDF format              |
-| `Soil Detector.png`           | Circuit schematic (image version)                 |
-| `soil_detector1.ino`          | Arduino source code for running the soil detector |
+| `Picture`                     |Folder of the project building images             |
+| `BOM - PulseWave .xlsx`       | Bill of materials                                 |
+| `README.md`                   |Update README.md                                   |
+| `Schematic.png`               | Circuit schematic (image version)                 |
+| `RP-Diale-PulseWave.ino`      | Arduino source code for running the soil detector |
  
 
 ---
