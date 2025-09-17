@@ -166,5 +166,23 @@ The device casing was designed in Onshape, exported, and laser cut from wood. Us
 ## Challenges I faced when building this project
 During this project, I faced several challenges. The LCD screen was not working properly, it would turn on and off (and not work for a long time). Some components were overheating and some would not work when I connected them to my breadboard. The serial monitor failed to recognize certain components sometimes, to solve this I used an I2C scanner to correctly identify and connect the devices, which helped stabilize the system. The readings of my components were displaying slow. My ESP32 microcontroller burnt and was not responsive, this delayed the process as I had to source a replacement device before I could continue testing and integrating the components.
 
+---
+
+## Conclusion
+
+This project gave me hands-on experience with IoT, embedded systems, and hardware designs. I learnt how to integrate multiple sensors with the ESP32, and create a web dashboard for real-time health monitoring. Despite challenges like overheating components and hardware failures, I gained valuable troubleshooting skills and a deeper understanding of electronics and prototyping.
+
+---
+## Acknowledgements
+
+Special thanks to my workshop instructors, my peers (especially Lesane for helping me troubleshoot), and the online community resources that guided me throughout this journey.
+
+---
+
 ## Future Improvements
-For future improvements, I will add SpO₂ (oxygen saturation) and blood pressure monitoring to provide more comprehensive health tracking. I will also improve my mobile app to send push alerts for abnormal readings and implement AI-based data analysis to offer predictive health insights. I will expand cloud support beyond ThingSpeak to platforms like Firebase or AWS IoT, enabling more data storage, accessibility, and advanced analytics.
+
+In the future, I plan to:
+- Improve the stability of the ESP32 setup and explore better power management.
+- Add more sensors to expand health monitoring features.
+- Develop a more user-friendly mobile app for live tracking.
+- Explore 3D printing for more compact and durable casings.
