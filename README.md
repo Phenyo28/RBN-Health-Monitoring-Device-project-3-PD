@@ -172,12 +172,9 @@ During this project, I faced several challenges. The LCD screen was not working 
 
 This project gave me hands-on experience with IoT, embedded systems, and hardware designs. I learnt how to integrate multiple sensors with the ESP32, and create a web dashboard for real-time health monitoring. Despite challenges like overheating components and hardware failures, I gained valuable troubleshooting skills and a deeper understanding of electronics and prototyping.
 
----
 ## Acknowledgements
 
 Special thanks to my workshop instructors, my peers (especially Lesane for helping me troubleshoot), and the online community resources that guided me throughout this journey.
-
----
 
 ## Future Improvements
 
