@@ -150,8 +150,6 @@ I designed the project components using Onshape and then used Kirimoto to genera
 
 ## Laser Cutting the Device
 The device casing was designed in Onshape, exported, and laser cut from wood. Using proper power and speed settings, the parts were cut accurately and assembled to house the ESP32, sensors, and display, resulting in a durable and portable prototype.
-<img width="765" height="539" alt="image" src="https://github.com/user-attachments/assets/f5f31786-a6bc-4a2c-a9f0-7502f1b2e2f8" />
-
 
 ---
 ## Process of working on the Project
