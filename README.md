@@ -48,8 +48,10 @@ This project is an IoT-enabled healthcare monitoring device designed to measure 
 
 -Libraries:
 - WiFi.h
+- HTTPClient.h
 - PulseSensorPlayground.h
-- OneWire.h
+- DFRobot_MLX90614.h
+- Wire.h
 - LiquidCrystal_I2C.h
 <img width="1920" height="179" alt="Screenshot 2025-09-17 004305" src="https://github.com/user-attachments/assets/c213e6c2-e469-4ed0-b403-7a2f0503e60d" />
 
