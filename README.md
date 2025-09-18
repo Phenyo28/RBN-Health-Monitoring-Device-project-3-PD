@@ -96,6 +96,8 @@ This project is an IoT-enabled healthcare monitoring device designed to measure 
 - ThingSpeak connection status & next update timer
 <img width="1917" height="571" alt="Screenshot 2025-09-17 003530" src="https://github.com/user-attachments/assets/b4cdd4f0-cf83-481f-8f26-ed3a11dd12fa" />
 
+<img width="1239" height="797" alt="Screenshot 2025-09-18 143142" src="https://github.com/user-attachments/assets/5dda3534-b8d9-4cf6-8d31-7dc5b5e4f8d4" />
+
 ---
 
 ## Schematic Design. 
