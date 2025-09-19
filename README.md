@@ -130,30 +130,6 @@ I created the casing on OnShape. This casing will provide protection for the ele
 
 <img width="854" height="590" alt="Screenshot 2025-09-17 084955" src="https://github.com/user-attachments/assets/807e8e22-88e9-4eca-8c2c-e5ed4410b671" />
 
-## Laser Cutting workshop
-
-As part of this project, I attended hands-on workshops that helped me gain essential fabrication and prototyping skills.
-- Laser Cutting Workshop – Learned about routine checks, machine maintenance, carbon air filters, focusing tools, bed leveling, and engraving techniques.
-- CNC and Additive Manufacturing  – We explored subtractive vs. additive manufacturing, CNC routing operations, tool bits, spindle motors, safety practices, and software workflows.
-- Design Tools – Practiced CAD design in Onshape, generated toolpaths using Kiri:Moto, and prepared files for laser cutting.
-## Testing the laser cutting machine
-<img width="1034" height="483" alt="image" src="https://github.com/user-attachments/assets/3271751c-59ea-4ba5-907c-2de13b75b2dc" />
-<img width="1033" height="297" alt="image" src="https://github.com/user-attachments/assets/de8aa434-fb6d-4d78-a152-317b18902a6d" />
-
-## Laser cutting and photo engraving using ImagR
-<img width="831" height="429" alt="Screenshot 2025-09-17 091921" src="https://github.com/user-attachments/assets/d383d9c1-d6bd-451e-b3b6-4a34d2d0d8aa" />
-
-## CNC 
-I designed the project components using Onshape and then used Kirimoto to generate CNC instructions to cut the wood accurately. This allowed me to translate my digital design into a precise physical object.
-<img width="1034" height="523" alt="image" src="https://github.com/user-attachments/assets/8e636d36-e4f5-4541-846c-c2295c96a52f" />
-<img width="1034" height="521" alt="image" src="https://github.com/user-attachments/assets/c4ca53fe-0650-4085-80a4-1ec763a16e77" />
-## The Outcome
-<img width="745" height="582" alt="image" src="https://github.com/user-attachments/assets/4c0c59cd-8f11-4846-8754-d4b63fb12c43" />
-
----
-
-## Laser Cutting the Device
-The device casing was designed in Onshape, exported, and laser cut from wood. Using proper power and speed settings, the parts were cut accurately and assembled to house the ESP32, sensors, and display, resulting in a durable and portable prototype.
 
 ---
 ## Process of working on the Project
