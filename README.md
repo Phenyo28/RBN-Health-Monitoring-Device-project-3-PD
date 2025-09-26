@@ -30,6 +30,7 @@ This project is an IoT-enabled healthcare monitoring device designed to measure 
 - Enables remote access to health data through a mobile app and the device itself
 - Designed for everyday use in healthcare or home settings
 ---
+
 ## Components Used
 | Component Name               | Purpose in Project                                            | Quantity |
 | ---------------------------- | ------------------------------------------------------------- | -------- |
